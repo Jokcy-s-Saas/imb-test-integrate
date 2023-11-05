@@ -11,7 +11,9 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.0"
+    "next": "14.0.0",
+    "@imb/features": "^0.0.1",
+    "@imb/api-s3": "^0.0.1"
   },
   "devDependencies": {
     "typescript": "^5",
